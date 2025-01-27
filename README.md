@@ -44,10 +44,10 @@ I'm a **Junior DevOps Engineer** certified in **AWS®, CKA®, RHCSA®, and GitHu
 ## 🏆 Certifications
 
 - **Kubernetes and Cloud Native Associate (KCNA)** - *Issued: Jan 2025*
-- **Certified Kubernetes Administrator (CKA)** - *Issued: Dec 2024*
 - **Huawei Certified Cloud Developer Associate (HCCDA)** - *Issued: Jan 2025*
-- **GitHub Foundations** - *Issued: Oct 2024*
 - **AWS Certified Cloud Practitioner (AWS-CLF C02)** - *Issued: Dec 2024*
+- **Certified Kubernetes Administrator (CKA)** - *Issued: Dec 2024*
+- **GitHub Foundations** - *Issued: Oct 2024*
 - **Red Hat Certified System Administrator (RHCSA)** - *Issued: Oct 2024*
 
 ---

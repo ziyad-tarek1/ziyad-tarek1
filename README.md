@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior DevOps Engineer** certified in **AWS®, CKA®, RHCSA®, and GitHub Foundations**, with hands-on experience in **Linux, Docker, Kubernetes, and automation tools like Ansible**. I specialize in deploying and optimizing software environments, building high-availability architectures, and automating CI/CD pipelines. I'm passionate about streamlining processes and contributing to organizational success through DevOps practices.
+I'm a Junior **DevOps Engineer** and **Information Technology Institute (ITI) graduate** from the **System Administration track**, with certifications in **AWS®, CKA®, RHCSA®, Terraform, and GitHub Foundations**. Experienced in **Linux, Docker, Kubernetes, and automation tools like Ansible**, with a strong foundation in **CI/CD pipelines, cloud infrastructure, and high-availability architectures**. Skilled in designing and deploying **cloud-native solutions using Terraform, Jenkins, ArgoCD, and GitHub Actions**, ensuring **scalability, security, and efficiency**. Adept at monitoring and observability using **Prometheus, Grafana, and ELK Stack**. Passionate about **automation, containerization, and streamlining software delivery** to drive operational excellence.  
 
 ---
 
@@ -43,6 +43,7 @@ I'm a **Junior DevOps Engineer** certified in **AWS®, CKA®, RHCSA®, and GitHu
 
 ## 🏆 Certifications
 
+- **Terraform Associate (003)** - *Issued: Feb 2025*
 - **Kubernetes and Cloud Native Associate (KCNA)** - *Issued: Jan 2025*
 - **Huawei Certified Cloud Developer Associate (HCCDA)** - *Issued: Jan 2025*
 - **AWS Certified Cloud Practitioner (AWS-CLF C02)** - *Issued: Dec 2024*

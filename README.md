@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior DevOps Engineer** with a passion for **automation, cloud-native technologies, and building scalable systems**. I thrive on solving complex problems and streamlining workflows to make life easier for developers and businesses alike. When I'm not orchestrating Kubernetes clusters or automating CI/CD pipelines, you can find me exploring new tools, contributing to open-source projects, or sipping coffee while debugging YAML files. ☕
+I'm a Junior **DevOps Engineer** and **Information Technology Institute (ITI) graduate** from the **System Administration track**, with certifications in **AWS®, CKA®, RHCSA®, Terraform, and GitHub Foundations**. Experienced in **Linux, Docker, Kubernetes, and automation tools like Ansible**, with a strong foundation in **CI/CD pipelines, cloud infrastructure, and high-availability architectures**. Skilled in designing and deploying **cloud-native solutions using Terraform, Jenkins, ArgoCD, and GitHub Actions**, ensuring **scalability, security, and efficiency**. Adept at monitoring and observability using **Prometheus, Grafana, and ELK Stack**. Passionate about **automation, containerization, and streamlining software delivery** to drive operational excellence.  
 
 ---
 
@@ -33,13 +33,34 @@ I'm a **Junior DevOps Engineer** with a passion for **automation, cloud-native t
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### System Administration
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### Networking
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![SDN](https://img.shields.io/badge/SDN-0085CA?style=for-the-badge&logo=opennetworking&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+---
+
+## 🏆 Certifications
+
+- **Terraform Associate (003)** - *Issued: Feb 2025*
+- **Kubernetes and Cloud Native Associate (KCNA)** - *Issued: Jan 2025*
+- **Huawei Certified Cloud Developer Associate (HCCDA)** - *Issued: Jan 2025*
+- **AWS Certified Cloud Practitioner (AWS-CLF C02)** - *Issued: Dec 2024*
+- **Certified Kubernetes Administrator (CKA)** - *Issued: Dec 2024*
+- **GitHub Foundations** - *Issued: Oct 2024*
+- **Red Hat Certified System Administrator (RHCSA)** - *Issued: Oct 2024*
 
 ---
 
